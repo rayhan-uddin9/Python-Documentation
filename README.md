@@ -80,10 +80,10 @@ The final project is a Student Management System built entirely in Python. It le
 
 ---
 
-## What I learned building this
+## What you learned building this
 
 Teaching Python made me understand it better. I had to think about how to explain each concept in the simplest possible way. Writing this course also improved my own code quality — especially after Class 29 on clean code and PEP 8.
 
 ---
 
-Made by [Your Name] · Computer Science Student · Open to feedback and contributions
+Made by Rayhan Uddin · Computer Science Student · Open to feedback and contributions
